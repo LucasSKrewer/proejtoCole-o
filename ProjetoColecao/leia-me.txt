@@ -1,0 +1,5 @@
+mail: admin@mail.com
+pass: 123
+data-base: colle_db
+user: root
+pass:
